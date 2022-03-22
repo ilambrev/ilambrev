@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🌱 I’m currently learning Java!
+## Hi there 👋:metal:
+- :student: I’m currently learning **_:coffee: Java_**!
 
 <!--
 **ilambrev/ilambrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
