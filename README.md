@@ -1,7 +1,7 @@
 ## Hi there, my name is Ivan 👋:metal:
 I'm from Sofia, the capital of Bulgaria - a beautiful country, situated in Eastern Europe!
 
-I'm so happy that I finally started to learn Java. Here  I will store all of my code that I will write during my education at SoftUni - Software University.
+I'm so happy that I finally succeeded to start learning Java.
 
 - :student: I’m currently learning **_:coffee: Java_**!
 - :school: **SoftUni - Software University**
