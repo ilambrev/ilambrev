@@ -3,7 +3,7 @@ I'm from Sofia, the capital of Bulgaria - a beautiful country, situated in Easte
 
 I'm so happy that I finally succeeded to start learning Java.
 
-- :student: I’m currently learning **_:coffee: Java_**!
+- :man_student: I’m currently learning **_:coffee: Java_**!
 - :school: **SoftUni - Software University**
 
 
