@@ -7,6 +7,7 @@ I'm so happy that I finally succeeded to start learning Java.
 - :point_right: I'm also interested in **_JavaScript, HTML, CSS, SQL_**
 - :school: **SoftUni - Software University**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilambrev&label=Profile%20views&color=blue&style=flat" alt="ilambrev" /> </p>
 
 ## **GitHub Stats**
 
