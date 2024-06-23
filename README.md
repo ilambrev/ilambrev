@@ -1,4 +1,4 @@
-## Hi there, my name is Ivan 👋:metal:
+## Hi there, my name is Ivan.
 I'm from Sofia, the capital of Bulgaria - a beautiful country, situated in Eastern Europe!
 
 I'm so happy that I finally succeeded to start learning Java.
