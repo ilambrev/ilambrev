@@ -1,11 +1,9 @@
 ## Hi there, my name is Ivan.
 I'm from Sofia, the capital of Bulgaria - a beautiful country, situated in Eastern Europe!
 
-I'm so happy that I finally succeeded to start learning Java.
+I’m currently learning **_:coffee: Java_** at **SoftUni - Software University**!
 
-- :man_student: I’m currently learning **_:coffee: Java_**!
-- :point_right: I'm also interested in **_JavaScript, HTML, CSS, SQL_**
-- :school: **SoftUni - Software University**
+I'm also interested in **_JavaScript, HTML, CSS, SQL_**
 
 <!--
 **ilambrev/ilambrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
