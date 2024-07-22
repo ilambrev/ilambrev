@@ -1,7 +1,7 @@
 ## Hi there, my name is Ivan.
 I'm from Sofia, the capital of Bulgaria - a beautiful country, situated in Eastern Europe!
 
-I’m currently learning **_:coffee: Java_** at **SoftUni - Software University**!
+I'm currently studying in professional program for **_:coffee: Java_** Web Developer at **SoftUni - Software University**
 
 I'm also interested in **_JavaScript, HTML, CSS, SQL_**
 
