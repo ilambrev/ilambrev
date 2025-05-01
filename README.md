@@ -1,9 +1,6 @@
 ## Hi there, my name is Ivan.
-I'm from Sofia, the capital of Bulgaria - a beautiful country, situated in Eastern Europe!
 
-I'm currently studying in professional program for **_:coffee: Java_** Web Developer at **SoftUni - Software University**
-
-I'm also interested in **_JavaScript, HTML, CSS, SQL_**
+I'm interested in **_Java, JavaScript, HTML, CSS, SQL_**
 
 <!--
 **ilambrev/ilambrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
